@@ -13,7 +13,7 @@ import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertNotNull;
 
 @Test(groups = "API")
-public class ApiTests {
+public class TestApi {
 
     @BeforeClass(alwaysRun = true)
     public void setup() {
